@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 20 Oct 2021 14:33:10 at http://a7pj19l.cn/NByd9EXr/Toyota-fzwa/?_t=1634733006cgm#1634731478683 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://a7pj19l.cn/NByd9EXr/Toyota-fzwa/?_t=1634733006cgm#1634731478683 -O1 "C:\Users\Admin\Desktop\Toyta hulix creative" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:33:12	Warning: 	Found for a7pj19l.cn/robots.txt
+14:33:12	Warning: 	File has moved from a7pj19l.cn/robots.txt to https://benfly.net/e8ff0088ab/1c337ce436/?placementName=jiami
+14:33:51	Error: 	"Not Found" (404) at link a7pj19l.cn/NByd9EXr/Toyota-fzwa/static/KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2.html (from a7pj19l.cn/NByd9EXr/Toyota-fzwa/static/sur.css)
+14:33:51	Error: 	"Not Found" (404) at link a7pj19l.cn/NByd9EXr/Toyota-fzwa/static/KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2.html (from a7pj19l.cn/NByd9EXr/Toyota-fzwa/static/sur.css)
+14:33:51	Error: 	"Not Found" (404) at link a7pj19l.cn/NByd9EXr/Toyota-fzwa/static/KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2.html (from a7pj19l.cn/NByd9EXr/Toyota-fzwa/static/sur.css)
+14:33:51	Error: 	"Not Found" (404) at link a7pj19l.cn/NByd9EXr/Toyota-fzwa/static/KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2.html (from a7pj19l.cn/NByd9EXr/Toyota-fzwa/static/sur.css)
+14:33:51	Error: 	"Not Found" (404) at link a7pj19l.cn/NByd9EXr/Toyota-fzwa/static/KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2.html (from a7pj19l.cn/NByd9EXr/Toyota-fzwa/static/sur.css)
+14:33:51	Error: 	"Not Found" (404) at link a7pj19l.cn/NByd9EXr/Toyota-fzwa/static/KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2.html (from a7pj19l.cn/NByd9EXr/Toyota-fzwa/static/sur.css)
+14:33:51	Error: 	"Not Found" (404) at link a7pj19l.cn/NByd9EXr/Toyota-fzwa/static/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2.html (from a7pj19l.cn/NByd9EXr/Toyota-fzwa/static/sur.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 41 seconds : 40 links scanned, 32 files written (1743158 bytes overall) [1315740 bytes received at 32091 bytes/sec], 632143 bytes transferred using HTTP compression in 19 files, ratio 27%, 1.4 requests per connection
+(7 errors, 2 warnings, 0 messages)
